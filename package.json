@@ -1,0 +1,20 @@
+{
+  "name": "bezier-run",
+  "version": "0.0.1",
+  "description": "一个贝塞尔曲线运行器，是bezier-run-2d和bezier-run-3d包的合并版。A Bezier curve runner, which is a combination of bezier-run-2d and bezier-run-3d packages",
+  "author": "Yesifang",
+  "license": "MIT",
+  "private": false,
+  "main": "index.js",
+  "homepage": "https://yesifang.com",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:SuperYesifang/vue-scrolling-ul.git"
+  },
+  "scripts": {},
+  "keywords": [
+    "bezier",
+    "run",
+    "speed"
+  ]
+}
